@@ -7,7 +7,7 @@
 
 - Dataset repository after the processing the raw csv data:
 
-  [![dataset_repository](https://img.shields.io/badge/dataset_repository-1DA1F2?style=for-the-badge&logo=Sdatasetrepository&logoColor=white)](Suman2004/lang-trans-sentiment)
+  [![dataset_repository](https://img.shields.io/badge/dataset_repository-1DA1F2?style=for-the-badge&logo=Sdatasetrepository&logoColor=white)](https://huggingface.co/datasets/Suman2004/lang-trans-sentiment)
 
 - ##  User Interface
 - This system provides gradio user interface to user.
