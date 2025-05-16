@@ -1,5 +1,5 @@
 # Multilingual Sentiment and Language Analyzer
-- This application basically take the any text or paragraph in any language and detect the sentiment of the language in english and also detect the original language type of given text and also gives the english translation of the given text.
+- This application basically takes the any text or paragraph in any language and detects the sentiment of the language in english and also detects the original language type of given text and also gives the english translation of the given text.
 - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit using a sentiment and translated dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
 - Model repository:
 
