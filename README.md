@@ -9,6 +9,16 @@
 
   [![dataset_repository](https://img.shields.io/badge/dataset_repository-1DA1F2?style=for-the-badge&logo=Sdatasetrepository&logoColor=white)](https://huggingface.co/datasets/Suman2004/lang-trans-sentiment)
 
+- ## Training Details
+- Training graphs are given below
+
+     ![Screenshot (297)](https://github.com/user-attachments/assets/fa1022f4-9416-4c8d-890d-c857a77d1734)
+
+- Run summary is given below
+  
+     ![Screenshot (296)](https://github.com/user-attachments/assets/60a40172-7852-4ed1-86bb-9e23c45d583c)
+  
+
 - ##  User Interface
 - This system provides gradio user interface to user.
 
@@ -17,6 +27,7 @@
 - Testing with an input:
 
      ![Screenshot (293)](https://github.com/user-attachments/assets/9b2b660c-2fe6-4b91-873e-7033fce66356)
+  
 
 - ## Deployment
 - As,we use our own finetuned model so,for loading the model directly and processing the work,we need minimum 10 GB GPU storage which is available in hugging face space but, it is costly.So,that's why we test the model in google collab file.
