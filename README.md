@@ -3,11 +3,11 @@
 - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit using a sentiment and translated dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
 - Model repository:
 
-     [![model repository](https://img.shields.io/badge/model_repository-1DA1F2?style=for-the-badge&logo=modelrepository&logoColor=white)](https://huggingface.co/Suman2004/lang-trans-sentiment-analyser__finetuned-llama-3.2-3b-instruct-unsloth-bnb-4bit)
+     [![Hugging Face Model](https://img.shields.io/badge/HuggingFace%20Model-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Suman2004/lang-trans-sentiment-analyser__finetuned-llama-3.2-3b-instruct-unsloth-bnb-4bit)
 
 - Dataset repository after the processing the raw csv data:
 
-  [![dataset_repository](https://img.shields.io/badge/dataset_repository-1DA1F2?style=for-the-badge&logo=Sdatasetrepository&logoColor=white)](https://huggingface.co/datasets/Suman2004/lang-trans-sentiment)
+   [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace%20Dataset-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Suman2004/lang-trans-sentiment)
 
 - ## Training Details
 - Training graphs are given below
@@ -32,8 +32,9 @@
 - ## Deployment
 - As,we use our own finetuned model so,for loading the model directly and processing the work,we need minimum 10 GB GPU storage which is available in hugging face space but, it is costly.So,that's why we test the model in google collab file.
 - After testing our own finetuned model with gradio interface,we used hugging face space for deployment purpose.As huggingface space doesn't provide the GPU in free of cost,but provides CPU basic 2 vCPU 16 GB RAM in free of cost,we deployed this app on CPU basic 2 vCPU 16 GB RAM hardware.But it's performance is very slow.
-- Huggingface Space link:
+- It is deployed with Huggingface Space :
 
-   [![Huggingface Space](https://img.shields.io/badge/Huggingface_Space-1DA1F2?style=for-the-badge&logo=Shuggingfacespace&logoColor=white)](https://huggingface.co/spaces/Suman2004/Multilingual-Sentiment-and-Language-Analyzer)
+  [![Hugging Face Space](https://img.shields.io/badge/HuggingFace%20Space-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Suman2004/Multilingual-Sentiment-and-Language-Analyzer)
+
 
 
